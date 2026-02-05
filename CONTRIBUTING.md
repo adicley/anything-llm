@@ -100,6 +100,7 @@ When a new version is released, the following steps are taken a new image is bui
 
 Changes to the desktop app are downstream of the core AnythingLLM project. Releases of the desktop app are published at the same time as the core AnythingLLM project. Code from the core AnythingLLM project is copied into the desktop app into an Electron wrapper. The Electron wrapper that wraps around the core AnythingLLM project is **not** part of the core AnythingLLM project, but is maintained by the AnythingLLM team.
 
+
 ## License
 
 By contributing to AnythingLLM (this repository), you agree to license your contributions under the MIT license.
